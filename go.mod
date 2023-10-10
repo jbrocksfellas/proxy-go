@@ -1,4 +1,4 @@
-module super-proxy
+module proxy
 
 go 1.20
 
